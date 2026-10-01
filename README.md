@@ -34,8 +34,8 @@ A lightweight, zero-dependency Python utility for quick cross-platform network t
 
 ### 1. Clone or Download the Repository
 ```bash
-git clone https://github.com/yourusername/diagnose-network.git
-cd diagnose-network
+git clone https://github.com/moetooo/network-connectivity-checker.git
+cd network-connectivity-checker
 ```
 
 ### 2. Run Diagnostics
